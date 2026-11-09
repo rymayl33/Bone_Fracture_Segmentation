@@ -1,0 +1,5 @@
+percentage,best_val_positive_dice,checkpoint,history
+100,0.38946608987474435,c:\Users\rylee\OneDrive\UCF\Independent Study\Bone_Fracture_Segmentation\processed\checkpoints\unet_resnet18_100pct_best.pth,c:\Users\rylee\OneDrive\UCF\Independent Study\Bone_Fracture_Segmentation\processed\results\baseline_100pct_history.csv
+30,0.3156056594128359,c:\Users\rylee\OneDrive\UCF\Independent Study\Bone_Fracture_Segmentation\processed\checkpoints\unet_resnet18_30pct_best.pth,c:\Users\rylee\OneDrive\UCF\Independent Study\Bone_Fracture_Segmentation\processed\results\baseline_30pct_history.csv
+20,0.0008992891407743797,c:\Users\rylee\OneDrive\UCF\Independent Study\Bone_Fracture_Segmentation\processed\checkpoints\unet_resnet18_20pct_best.pth,c:\Users\rylee\OneDrive\UCF\Independent Study\Bone_Fracture_Segmentation\processed\results\baseline_20pct_history.csv
+10,6.3605990928056e-05,c:\Users\rylee\OneDrive\UCF\Independent Study\Bone_Fracture_Segmentation\processed\checkpoints\unet_resnet18_10pct_best.pth,c:\Users\rylee\OneDrive\UCF\Independent Study\Bone_Fracture_Segmentation\processed\results\baseline_10pct_history.csv

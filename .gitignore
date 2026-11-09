@@ -1,2 +1,3 @@
 FracAtlas/*
-_pycache_/*
+__pycache__/*
+processed/checkpoints/*
